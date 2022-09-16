@@ -1,0 +1,21 @@
+I am a teacher
+Was this statement True or False for you: True
+I am a high school student
+Was this statement True or False for you: False
+I am a teacher and I am a high school student is True
+I am a teacher or I am a high school student is True
+The negation of I am a teacher is False
+I like math
+Was this statement True or False for you: True
+I like video games
+Was this statement True or False for you: True
+I am a child
+Was this statement True or False for you: False
+I am 25 years old
+Was this statement True or False for you: False
+I like math and I like video games is True
+I like video games and I am a child is True
+I am a child or I am 25 years old is True
+I am 25 years old or I like math is True
+The negation of I like math is False
+The negation of I am a child is False
