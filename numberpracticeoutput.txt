@@ -1,0 +1,11 @@
+Each person should have a starting balance between 5k and 10k.
+Enter person 1's starting balance: 5234.98
+Enter person 2's starting balance: 7854.12
+Person 1 has 5234.98 dollars and Person 2 has 7854.12 dollars.
+After pay day, Person 1 has 6657.74 dollars and Person 2 has 9401.1 dollars.
+After errands, Person 1 has 6333.15 dollars and Person 2 has 9113.42 dollars.
+After the fair, Person 1 has 18999.449999999997 dollars and Person 2 has 27340.260000000002 dollars.
+After a couple weeks, Person 1 has 9499.724999999999 dollars and Person 2 has 13670.130000000001 dollars.
+After the error, Person 1 has 6333.0 dollars and Person 2 has 9113.0 dollars.
+After 50 years, Person 1 has 21767.209521882494 dollars and Person 2 has 24528.441708947787 dollars.
+After they distribute the money, Person 1 has 2.2095218824943004 dollars and Person 2 has 8.441708947786537 dollars.
