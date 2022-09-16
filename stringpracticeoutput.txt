@@ -1,0 +1,8 @@
+Please enter your first and last name: John Guzauckas
+Please enter a surname: II
+You have 17 characters in your name.
+The fifth character of your name is
+The last character of your name is I
+The first four characters of your name are John
+Your shortened name would be n Guzauckas
+The last four characters of your name are s II
